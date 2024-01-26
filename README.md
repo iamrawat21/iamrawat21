@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devansh</h1>
 <!-- - 🔭 I’m currently working on **Books Library** -->
 
-- 🌱 I’m currently learning **Full stack development & UI/UX Designing**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
